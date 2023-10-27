@@ -20,7 +20,7 @@ public class AplikasiTodolist {
                 System.out.println(no + ". " + todo);
             }
         }
-    }
+    }k
 
     public static void testShowTodoList() {
         model[0] = "Belajar Java Dasar";
